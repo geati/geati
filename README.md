@@ -3,8 +3,8 @@
 ...
 
 ## Projetos 
-- [x] PUG - Plataforma Unificada de Gestão (Daniel Varela)
-  - [ ] GANDAS (Gandalf) - Gerenciamento Avançado de Níveis de Acesso e Segurança
+- [ ] PUG - Plataforma Unificada de Gestão
+  - [x] GANDAS (Gandalf) - Gerenciamento Avançado de Níveis de Acesso e Segurança (Daniel Varela)
   - [ ] CALORG - Calendário de Organização de Recursos e Gestão
   - [x] SCEI - Sistema de Controle de Eventos Instituicional (Arthur Steupp)
   - [ ] SMAIRE - Sistema de Monitoramento de Infrações e Reabilitação Educacional
