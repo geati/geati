@@ -10,7 +10,7 @@
   - [ ] SMAIRE - Sistema de Monitoramento de Infrações e Reabilitação Educacional
   - [ ] MAPA CAMPUS
   - [ ] CONTROLE DE ACESSO VEICULOS (OCR)
-- [ ] Sistema de Monitoramdento para Ninhos de Colhos
+- [ ] Sistema de Monitoramdento para Ninhos de Coelhos
 - [ ] CNUCG - Cadastro Nacional de Usuários de Cães Guia
 - [ ] Banco de Dados da Fauna e Flora do IFC Camboriú
   - [ ] Frontend Projeto Inventário Florestal
