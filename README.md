@@ -27,4 +27,5 @@
   - [ ] ICU - I see you (Câmeras identificando pessoas/invasões no IFC - Aquicultura)
   - [ ] Câmera identificação veiculos (Guarita - OCR das placas)
   - [ ] Servidor Projetos Ensino (acesso local - rede interna - apenas)
+  - [ ] Cardcall - Sistema de Controle de Chamada em Sala de Aula utilizando RFID e Arduino
   - [ ] Encurtador de URL
