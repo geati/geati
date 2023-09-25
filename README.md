@@ -10,6 +10,7 @@
   - [ ] SMAIRE - Sistema de Monitoramento de Infrações e Reabilitação Educacional
   - [ ] MAPA CAMPUS
   - [ ] CONTROLE DE ACESSO VEICULOS (OCR)
+    - [ ] Variações: contar bicicletas entrando no campus. Se puder diferenciar, moto, carro, pedestre também é legal.
 - [ ] Sistema de Monitoramdento para Ninhos de Coelhos
 - [ ] CNUCG - Cadastro Nacional de Usuários de Cães Guia
 - [ ] Banco de Dados da Fauna e Flora do IFC Camboriú
